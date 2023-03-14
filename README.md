@@ -24,8 +24,6 @@ To compile the "Hello World" program, type the following:
 javac HelloWorld.java
 ```
 
-## Excute the program
-
 To execute the program, type this:
 
 ```console
